@@ -3,7 +3,7 @@
            
   ***FIRST_OF_ALL***
   
-  FIRST OF ALL : don't copy  and past understand this notice :
+  FIRST OF ALL : don't copy  and past , understand this notice :
  
  net_mw.cpp :  Single file Network Watcher for Windows (uses Npcap/wpcap)
  Features:
